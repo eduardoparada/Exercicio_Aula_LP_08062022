@@ -1,0 +1,8 @@
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\bin\Debug\Exercicio_Aula_LP_08062022.exe.config
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\bin\Debug\Exercicio_Aula_LP_08062022.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\bin\Debug\Exercicio_Aula_LP_08062022.pdb
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\obj\Debug\Exercicio_Aula_LP_08062022.csproj.AssemblyReference.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\obj\Debug\Exercicio_Aula_LP_08062022.csproj.SuggestedBindingRedirects.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\obj\Debug\Exercicio_Aula_LP_08062022.csproj.CoreCompileInputs.cache
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\obj\Debug\Exercicio_Aula_LP_08062022.exe
+D:\Eduardo Parada\Documents\Faculdade ADS - Faat\1º Semestre\Lógica de Programação\c#\aula 08062022 - subir git\Exercicio_Aula_LP_08062022\Exercicio_Aula_LP_08062022\obj\Debug\Exercicio_Aula_LP_08062022.pdb
